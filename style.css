@@ -1,10 +1,43 @@
-p{
-  width:300px;
-  height: 50px;
-  color: #015668;
-  font-family: 'Chelsea Market', cursive;;
-  font-size: 25px;
-  background-color:#0D91A1;
-  border: 5px solid #7DCE94 ;
-  padding: 30px 0px 60px 20px;
+main{
+  width: 300px;
+  height: 470px;
+  text-align: center;
+  font-weight: bold;
+  border: 10px solid #4285f4;
+}
+.North{
+  font-size: 24px;
+  font-family: 'Baloo Thambi 2', cursive;
+  color:white;
+  background-color: #E67676;
+  padding: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.East{
+  font-size: 24px;
+  font-family: 'Baloo Thambi 2', cursive;
+  color:white;
+  background-color: #F2F062;
+  padding: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.South{
+  font-size: 24px;
+  font-family: 'Baloo Thambi 2', cursive;
+  color:white;
+  background-color: #A9E6E6;
+  padding: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.West{
+  font-size: 24px;
+  font-family: 'Baloo Thambi 2', cursive;
+  color:white;
+  background-color: #7692E4;
+  padding: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
